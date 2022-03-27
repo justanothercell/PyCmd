@@ -1,5 +1,8 @@
 # Micropython Command Prompt
 
+THis is the code for a small "command prompt" for micropython, which lets you create, view and delete
+files and directories and has a few other utility commands.
+
 All this code was tested on an esp32, but should work with any micropython supporting
 microcontroller
 

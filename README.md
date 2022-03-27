@@ -78,4 +78,4 @@ exec -> executes a .py file<br>
 `/>boot add exec NAME path/to/file.py`<br>
 <br>
 run -> executes a command<br>
-`/>boot add exec WALK_FILES walk`<br>
+`/>boot add run WALK_FILES walk`<br>
